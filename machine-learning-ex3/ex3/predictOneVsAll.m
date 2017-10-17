@@ -29,14 +29,8 @@ X = [ones(m, 1) X];
 %       are in rows, then, you can use max(A, [], 2) to obtain the max 
 %       for each row.
 %       
-
-
-
-
-
-
+[a, p] = max(sigmoid(X*all_theta'), [], 2); % each row is likelihood of prediction.
 
 % =========================================================================
-
 
 end
