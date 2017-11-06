@@ -1,0 +1,9 @@
+Thanks Robert. 
+
+Yes, that is pretty basic. 
+
+Just so I'm sure I understand: RDM alarms go to the help desk email. But for Danfoss alarms, the help desk is monitoring alarms via the EM800 not email, correct?
+
+Best regards
+
+John
